@@ -1,1 +1,2 @@
 https://daveceddia.com/react-getting-started-tutorial/
+https://enappd.com/blog/redux-in-react-native-app/92/
