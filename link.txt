@@ -2,3 +2,7 @@ https://daveceddia.com/react-getting-started-tutorial/
 https://enappd.com/blog/redux-in-react-native-app/92/
 for some examples 
 https://redux.js.org/introduction/examples
+
+
+for react native documentation
+https://reactnative.dev/docs/intro-react-native-components
